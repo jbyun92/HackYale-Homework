@@ -10,3 +10,4 @@ how to make table show link to image that is not being presented
 
 transform/rotate lines
 how to use inspect element in chrome to inspect work as you go along 
+git commit
