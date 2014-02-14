@@ -1,0 +1,12 @@
+how to set something in the middle of the page
+how to adjust dimensions of border (length) - bottom margin
+
+how to make things fit within border so I don't have to adjust
+stacking individual "boxes" of text without using <br>
+need to have image adjust to screen size
+
+how to adjust css for table by using class selector and not table selector
+how to make table show link to image that is not being presented
+
+transform/rotate lines
+how to use inspect element in chrome to inspect work as you go along 
